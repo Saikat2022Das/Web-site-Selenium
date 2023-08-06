@@ -1,0 +1,29 @@
+Results:
+Successfully inserted key 3120.4
+Successfully inserted key 3229.35
+Successfully inserted key 3242.95
+Successfully inserted key 3217.65
+Successfully inserted key 3169.65
+
+
+Level 0:  3120.4 3169.65 3217.65 3229.35 3242.95 
+[3120.4, 3169.65, 3217.65, 3229.35, 3242.95]
+Successfully inserted key 2588.35
+Successfully inserted key 2619.75
+Successfully inserted key 2598.05
+Successfully inserted key 2569.3
+Successfully inserted key 2585.4
+
+
+Level 0:  2569.3 2585.4 2588.35 2598.05 2619.75 
+Level 1:  2569.3 2585.4 2588.35 2619.75 
+Level 2:  2588.35 2619.75 
+[2569.3, 2585.4, 2588.35, 2598.05, 2619.75]
+
+
+Enter which company's data you want to see, for K-th minimum value:
+If first company--> 1
+If second company--> 2
+:1
+Enter k-th : 2
+2-th smallest element: 3169.65
